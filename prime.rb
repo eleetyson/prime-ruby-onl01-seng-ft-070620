@@ -2,7 +2,7 @@
 def prime?(given_int)
   (2..given_int).each do |x|
     if x
-      x
+      return x
     else
       true  
   end
