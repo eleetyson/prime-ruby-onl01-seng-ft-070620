@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(i)
-  i.each
+  (0..i).each
 end
