@@ -1,4 +1,4 @@
 # Add  code here!
-def prime(int)
+def prime(i)
   
 end
