@@ -4,4 +4,5 @@ def prime?(given_int)
     if given_int & x == 0
       return x
   end
+  return
 end
