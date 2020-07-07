@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(i)
+def prime?(int)
   (2..i).each do ||
     if 
       x
