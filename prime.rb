@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(int)
-  (2..int).each do ||
+def prime?(given_int)
+  (2..given_int).each do ||
     if 
       x
     else
